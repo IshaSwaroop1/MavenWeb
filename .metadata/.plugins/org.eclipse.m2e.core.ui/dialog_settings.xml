@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\isha.swaroop\eclipse-workspace\MavenEmployee\src\main\java\com\globallogic\controller\HomeC.java"/>
+			<item value="C:\Users\isha.swaroop\eclipse-workspace\MVNmavenSr\src\main\java\com\globallogic\controller\homeController.java"/>
+			<item value="C:\Users\isha.swaroop\eclipse-workspace\MVNmaven1"/>
 			<item value="C:\Users\isha.swaroop\eclipse-workspace\Sql\src\com\globalLogic\sql\MYJDBC.java"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,17 +29,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.globallogic.maven.MavenWeb"/>
-			<item value="com.globallogic.maven.MVNmaven1"/>
-			<item value="com.globallogic.maven.MVNmaven"/>
+			<item value="com.globallogic.spring"/>
 		</list>
 		<list key="groupId">
-			<item value="com.globallogic.maven"/>
+			<item value="com.globallogic.spring"/>
 		</list>
 		<list key="artifactId">
-			<item value="MavenWeb"/>
-			<item value="MVNmaven1"/>
-			<item value="MVNmaven"/>
+			<item value="SpringMVC"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -72,5 +71,11 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="838"/>
+		<item key="x" value="720"/>
+		<item key="y" value="0"/>
 	</section>
 </section>
